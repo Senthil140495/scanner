@@ -7,11 +7,11 @@ public static void main(String[] args) {
 	Scanner s=new Scanner(System.in);
 	Scanner s1=new Scanner(System.in);
 	
-	System.out.println("Enter the stuid...");
+	System.out.println("Enter the student id...");
 	short stuid=s.nextShort();
 	System.out.println("My id is "+stuid);
 
-	System.out.println("Enter the stuname...");
+	System.out.println("Enter the student name...");
 	String stuname=s1.nextLine();
 	System.out.println("Student name is "+stuname);
 	
