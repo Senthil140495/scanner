@@ -15,15 +15,15 @@ public static void main(String[] args) {
 	String stuname=s1.nextLine();
 	System.out.println("Student name is "+stuname);
 	
-	System.out.println("Enter the mark1.");
+	System.out.println("Enter the 1mark.");
 	byte mark1=s.nextByte();
 	System.out.println(" mark1 is "+mark1);
 	
-	System.out.println("Enter the mark2");
+	System.out.println("Enter the 2mark");
 	byte mark2=s.nextByte();
 	System.out.println(" mark2 is "+mark2);
 	
-	System.out.println("Enter the mark3");
+	System.out.println("Enter the 3mark");
 	byte mark3=s.nextByte();
 	System.out.println("mark3 is "+mark3);
 	
